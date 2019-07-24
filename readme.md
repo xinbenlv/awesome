@@ -33,6 +33,7 @@
 - [Programming Languages](#programming-languages)
 - [Front-End Development](#front-end-development)
 - [Back-End Development](#back-end-development)
+- [Documentation Tools](#documentation-tools)
 - [Computer Science](#computer-science)
 - [Big Data](#big-data)
 - [Theory](#theory)
@@ -270,6 +271,9 @@
 - [Vapor](https://github.com/Cellane/awesome-vapor#readme) - Server-side development in Swift.
 - [Dash](https://github.com/Acrotrend/awesome-dash#readme) - Python web app framework.
 
+## Documentation Tools
+- [Markdown](https://daringfireball.net/projects/markdown/) - Markdown is a lightweight markup language with plain text formatting syntax, widely adopted by various tools and applications.
+        - [Github Favored Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ## Computer Science
 
